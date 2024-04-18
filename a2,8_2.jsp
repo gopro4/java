@@ -31,3 +31,12 @@ else
   </font> 
 </body>
 </html>
+
+<html>
+<body>
+<form action="http://localhost:8080/ty/a2.jsp" method="POST">
+Enter Number : <input type=text name=t1><br>
+<input type=submit>
+</form>
+</body>
+</html>
